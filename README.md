@@ -2,7 +2,7 @@
 
 i'm mintphin. i'm 16, a raging enby, pretty gay and a queer ancom. i like linux, music and computers.
 
-### FUCK TRANSPHOBES, HOMOPHOBES AND RACIST PEOPLE!!!!!!
+## if you don't support these get out
 
 - acab
 - blm
