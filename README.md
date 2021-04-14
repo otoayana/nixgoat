@@ -8,6 +8,8 @@ i'm mint and i break computers
 - i identify as non-binary
 - my pronouns are they/them
 - i'm a carnelian bisexual (nblm, nblnb)
+- i'd describe my political position as a queer ancom
 - i drink tea a lot
 - i listen to some music sometimes
+- i don't like antisemetic, racist, homophobic or transphobic people. super straights, you're included in that!
 - i breathe air! how cool is that?
