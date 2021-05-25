@@ -6,8 +6,8 @@ i'm mint and i break computers
 ![haha that's a funny fax](fax.jpg)
 - i'm 16 years old
 - i identify as non-binary
-- my pronouns are they/them
-- i'm a carnelian bisexual (nblm, nblnb)
+- my pronouns are they/she
+- i'm a uranic bisexual
 - i'd describe my political position as a queer ancom
 - i drink tea a lot
 - i listen to some music sometimes
