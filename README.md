@@ -4,7 +4,7 @@ i'm mint and i break computers
 
 ### fun fax:
 ![haha that's a funny fax](fax.jpg)
-- i'm 16 years old
+- i'm 17 years old
 - i identify as non-binary
 - my pronouns are they/she
 - i'm a uranic bisexual
