@@ -1,3 +1,13 @@
-![age](https://img.shields.io/badge/age-20-blue) ![pronouns](https://img.shields.io/endpoint?url=https://pronoundb.org/shields/605b49450a76712a6e5fdd29&style=flat&color=9262d6)
+```
+ _            
+| |_   ___  __
+| | | | \ \/ /
+| | |_| |>  < 
+|_|\__,_/_/\_\
+```
 
-software developer, student. i don't use github much, go check out my [sourcehut](https://sr.ht/~nixgoat)
+software developer, student
+
+contrib/mirror account, most repos are on [sourcehut](https://sr.ht/~nixgoat)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otoayana&layout=compact&theme=rose_pine)
