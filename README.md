@@ -6,8 +6,7 @@
 |_|\__,_/_/\_\
 ```
 
-software developer, student
-
+software developer, student<br>
 contrib/mirror account, most repos are on [sourcehut](https://sr.ht/~nixgoat)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otoayana&layout=compact&theme=rose_pine)
